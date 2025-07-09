@@ -10,7 +10,7 @@ This project explores Uber ride request data to identify supply-demand gaps. Too
 - `Uber Supply Demand Gap Insights.pdf` – Summary PDF report
 
 ## Tools Used
-- Python (pandas, matplotlib, seaborn)
+- Python (pandas)
 - Jupyter Notebook
 - Microsoft Excel
 - MySQL
